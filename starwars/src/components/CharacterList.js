@@ -3,6 +3,7 @@ import Character from "./Character";
 import "./StarWars.css";
 
 const CharacterList = props => {
+  
   return (
     <section className="character-list">
       <ul>
